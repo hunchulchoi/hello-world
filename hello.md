@@ -1,0 +1,8 @@
+#GIT
+
+##GIT 명령어
+
+-clone
+-add
+-commit
+-push
